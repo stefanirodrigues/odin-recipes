@@ -1,0 +1,40 @@
+body {
+    background-color: #ffd9dd;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.cute-gif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.recipes-list {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+a:link {
+    color:palevioletred
+}
+
+a:visited {
+    color: purple
+}
+
+a:hover {
+    color: lavenderblush
+}
+
+div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
